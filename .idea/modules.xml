@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Grocery_Store_app/.idea/Grocery_Store_app.iml" filepath="$PROJECT_DIR$/../Grocery_Store_app/.idea/Grocery_Store_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/bank_customer_churn_app_streamlit.iml" filepath="$PROJECT_DIR$/.idea/bank_customer_churn_app_streamlit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../data_exploratory_app_streamlit/.idea/data_exploratory_app_streamlit.iml" filepath="$PROJECT_DIR$/../data_exploratory_app_streamlit/.idea/data_exploratory_app_streamlit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../whatsApp_Analysis/.idea/whatsApp_Analysis.iml" filepath="$PROJECT_DIR$/../whatsApp_Analysis/.idea/whatsApp_Analysis.iml" />
+    </modules>
+  </component>
+</project>
