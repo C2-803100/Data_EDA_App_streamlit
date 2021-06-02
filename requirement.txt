@@ -1,0 +1,12 @@
+# import streamlit
+import streamlit as st
+import os
+
+# EDA Pkgs
+import pandas as pd
+
+# visualization pkgs
+import matplotlib.pyplot as plt
+import matplotlib
+matplotlib.use('Agg')
+import seaborn as sns
